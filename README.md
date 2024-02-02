@@ -54,6 +54,8 @@ Data process into pivot table
 
 ![](View_plain_table.png)
 
+![](View_checkin.png)
+
 
 
 
