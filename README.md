@@ -60,6 +60,10 @@ Labelling view
 
 ![](View_label.png)
 
+visual
+
+![](View_chart.png)
+
 
 
 
