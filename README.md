@@ -56,6 +56,10 @@ Data process into pivot table
 
 ![](View_checkin.png)
 
+Labelling view
+
+![](View_label.png)
+
 
 
 
