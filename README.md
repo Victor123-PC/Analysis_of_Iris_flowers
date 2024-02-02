@@ -46,7 +46,11 @@ Setosa species has the total sepal length of 250.3cm, sepal width of 170.9cm and
 
 Dataset view
 
-![](View_data_set.png)
+![](View_data_set.png
+
+Data process into pivot table
+
+![](View_plain_table.png)
 
 
 
