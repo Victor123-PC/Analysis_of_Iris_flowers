@@ -50,6 +50,8 @@ Dataset view
 
 Data process into pivot table
 
+![](View_pivot.png)
+
 ![](View_plain_table.png)
 
 
